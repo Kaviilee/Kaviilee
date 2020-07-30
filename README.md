@@ -4,7 +4,7 @@
 
 > A code porter
 
-🇨🇳 China Shenzhen ・ 🔧 Web developer
+🇨🇳 China GuangZhou ・ 🔧 Web developer
 
 ✏️ Blog: [https://Kaviilee.github.io/blog](https://Kaviilee.github.io/blog)  
 
