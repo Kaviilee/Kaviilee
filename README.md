@@ -6,6 +6,7 @@
 
 🇨🇳 China GuangZhou ・ 🔧 Web developer
 
-:home Home [https://Kaviilee.github.io](https://Kaviilee.github.io)
+💡  Home [https://Kaviilee.github.io](https://Kaviilee.github.io)
+
 ✏️ Blog: [https://Kaviilee.github.io/blog](https://Kaviilee.github.io/blog)  
 
