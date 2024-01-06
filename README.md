@@ -1,10 +1,8 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Kaviilee&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=false" />
+
 
 ### Hello 👏
 
-I'm kavii, a Chinese FrontEnd Developer.
-
-MyBlog: [My blog](https://kaviilee.github.io/blog/)
+I'm Kavii, a Chinese FrontEnd Developer.
 
 ### Languages & Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
